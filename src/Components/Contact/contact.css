@@ -36,12 +36,12 @@
 }
 .gmail1 li{
   
-  opacity: 60%;
+  opacity: 0.6;
   font-family: 'Cinzel', serif;
   
 }
 .gmail1 li:hover{
-  opacity: 100%;
+  opacity: 1;
 }
 .contact_section_contact {
   color: #fffffe;
